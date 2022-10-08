@@ -1,0 +1,7 @@
+pymongo
+python-dotenv
+dotenv
+selenium
+bs4
+
+
